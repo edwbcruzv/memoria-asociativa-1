@@ -26,8 +26,8 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto:
 Descarga el código fuente del proyecto a tu máquina local. Si está en un repositorio Git, puedes clonarlo con:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/edwbcruzv/memoria-asociativa-1.git
+cd memoria-asociativa-1
 ```
 
 ### 2. Crear un Entorno Virtual (Recomendado)
